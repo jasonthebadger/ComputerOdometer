@@ -11,12 +11,19 @@ of making this!
 
 Usage:
 It's fairly straightforward but I'll explain it all anyway:
+
 Set speed box: Sets the speed in KM/h. Should be able to accurately operate up to 1000KM/h (621mph)
+
 Start button: Starts the Odometer.
+
 Stop button: Stops the Odometer.
+
 Load button: Loads the Odometer's reading on last Save.
+
 Save button: Saves the Odometer's current reading.
+
 Status Box: Tells you what operation the program is trying to do. (Running, stopped, saving etc etc)
+
 Random numbers on the LH side: Testing for proper operation. It's just a read-out in Metres so I could ensure the Odo/Trip were working as intended.
 I will probably remove it if I decide to update this further, Or feel free to remove it yourself via VS.
 

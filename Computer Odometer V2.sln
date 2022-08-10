@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer Odometer V2", "Computer Odometer V2.csproj", "{114CEB23-57BB-404F-AB18-C37D5CE37A64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDD6D3BF-D7E6-49F2-9A73-D9D93106CB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114CEB23-57BB-404F-AB18-C37D5CE37A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114CEB23-57BB-404F-AB18-C37D5CE37A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114CEB23-57BB-404F-AB18-C37D5CE37A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114CEB23-57BB-404F-AB18-C37D5CE37A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC7B07A-9DCF-407B-909D-5A902A2A368F}
+	EndGlobalSection
+EndGlobal

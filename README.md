@@ -17,6 +17,8 @@ Stop button: Stops the Odometer.
 Load button: Loads the Odometer's reading on last Save.
 Save button: Saves the Odometer's current reading.
 Status Box: Tells you what operation the program is trying to do. (Running, stopped, saving etc etc)
+Random numbers on the LH side: Testing for proper operation. It's just a read-out in Metres so I could ensure the Odo/Trip were working as intended.
+I will probably remove it if I decide to update this further, Or feel free to remove it yourself via VS.
 
 Enjoy!
 

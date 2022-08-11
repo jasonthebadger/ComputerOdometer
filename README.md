@@ -31,7 +31,9 @@ Enjoy!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Update 2.1
+
 Fixed TripMeter doing strange things on Odometer Load. (only affected Compiled build, Source was not affected)
+
 Odo/Trip not visible on certain machines - I believe I've fixed this issue. Will test tomorrow. I'm going to leave it as an 'Issue' until I've confirmed
 it on a machine which has had the issue.
 

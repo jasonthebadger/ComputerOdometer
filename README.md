@@ -12,7 +12,7 @@ of making this!
 Usage:
 It's fairly straightforward but I'll explain it all anyway:
 
-Set speed box: Sets the speed in KM/h. Should be able to accurately operate up to 1000KM/h (621mph)
+Set speed box: Sets the speed in KM/h.
 
 Start button: Starts the Odometer.
 
@@ -26,6 +26,8 @@ Status Box: Tells you what operation the program is trying to do. (Running, stop
 
 Random numbers on the LH side: Testing for proper operation. It's just a read-out in Metres so I could ensure the Odo/Trip were working as intended.
 I will probably remove it if I decide to update this further (Maybe even do a MPH version?), Or feel free to remove it yourself via VS.
+
+Check the issues section to view current issues! 
 
 Enjoy!
 

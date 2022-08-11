@@ -79,7 +79,7 @@
             // TripKilometre
             // 
             this.TripKilometre.AutoSize = true;
-            this.TripKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.TripKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.TripKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TripKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.TripKilometre.Location = new System.Drawing.Point(638, 621);
@@ -91,7 +91,7 @@
             // TripTenKilometre
             // 
             this.TripTenKilometre.AutoSize = true;
-            this.TripTenKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.TripTenKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.TripTenKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TripTenKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.TripTenKilometre.Location = new System.Drawing.Point(600, 621);
@@ -103,7 +103,7 @@
             // TripHundredKilometre
             // 
             this.TripHundredKilometre.AutoSize = true;
-            this.TripHundredKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.TripHundredKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.TripHundredKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TripHundredKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.TripHundredKilometre.Location = new System.Drawing.Point(563, 621);
@@ -115,7 +115,7 @@
             // OdoKilometre
             // 
             this.OdoKilometre.AutoSize = true;
-            this.OdoKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoKilometre.Location = new System.Drawing.Point(690, 482);
@@ -127,7 +127,7 @@
             // OdoTenKilometre
             // 
             this.OdoTenKilometre.AutoSize = true;
-            this.OdoTenKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoTenKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoTenKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoTenKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoTenKilometre.Location = new System.Drawing.Point(659, 482);
@@ -139,7 +139,7 @@
             // OdoHundredKilometre
             // 
             this.OdoHundredKilometre.AutoSize = true;
-            this.OdoHundredKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoHundredKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoHundredKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoHundredKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoHundredKilometre.Location = new System.Drawing.Point(630, 482);
@@ -151,7 +151,7 @@
             // OdoThousandKilometre
             // 
             this.OdoThousandKilometre.AutoSize = true;
-            this.OdoThousandKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoThousandKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoThousandKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoThousandKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoThousandKilometre.Location = new System.Drawing.Point(601, 482);
@@ -163,7 +163,7 @@
             // OdoTenThousandKilometre
             // 
             this.OdoTenThousandKilometre.AutoSize = true;
-            this.OdoTenThousandKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoTenThousandKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoTenThousandKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoTenThousandKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoTenThousandKilometre.Location = new System.Drawing.Point(573, 482);
@@ -175,7 +175,7 @@
             // OdoHundredThousandKilometre
             // 
             this.OdoHundredThousandKilometre.AutoSize = true;
-            this.OdoHundredThousandKilometre.BackColor = System.Drawing.SystemColors.Desktop;
+            this.OdoHundredThousandKilometre.BackColor = System.Drawing.SystemColors.ControlText;
             this.OdoHundredThousandKilometre.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OdoHundredThousandKilometre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.OdoHundredThousandKilometre.Location = new System.Drawing.Point(545, 482);
@@ -280,11 +280,11 @@
             // CopyrightLabel
             // 
             this.CopyrightLabel.AutoSize = true;
-            this.CopyrightLabel.Location = new System.Drawing.Point(535, 173);
+            this.CopyrightLabel.Location = new System.Drawing.Point(514, 173);
             this.CopyrightLabel.Name = "CopyrightLabel";
-            this.CopyrightLabel.Size = new System.Drawing.Size(156, 13);
+            this.CopyrightLabel.Size = new System.Drawing.Size(212, 13);
             this.CopyrightLabel.TabIndex = 20;
-            this.CopyrightLabel.Text = "Copyright 2022 Jason Dempsey";
+            this.CopyrightLabel.Text = "Version 2.1 Copyright 2022 Jason Dempsey";
             // 
             // ComputerOdometerLabel
             // 

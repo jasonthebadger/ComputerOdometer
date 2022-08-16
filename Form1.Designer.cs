@@ -52,6 +52,7 @@
             this.CopyrightLabel = new System.Windows.Forms.Label();
             this.ComputerOdometerLabel = new System.Windows.Forms.Label();
             this.MSTest = new System.Windows.Forms.Label();
+            this.TrueOrFalse = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -190,6 +191,7 @@
             this.KMHTextbox.Name = "KMHTextbox";
             this.KMHTextbox.Size = new System.Drawing.Size(100, 20);
             this.KMHTextbox.TabIndex = 11;
+            this.KMHTextbox.Text = "0";
             // 
             // SetSpeedLabel
             // 
@@ -284,7 +286,7 @@
             this.CopyrightLabel.Name = "CopyrightLabel";
             this.CopyrightLabel.Size = new System.Drawing.Size(212, 13);
             this.CopyrightLabel.TabIndex = 20;
-            this.CopyrightLabel.Text = "Version 2.1 Copyright 2022 Jason Dempsey";
+            this.CopyrightLabel.Text = "Version 2.2 Copyright 2022 Jason Dempsey";
             // 
             // ComputerOdometerLabel
             // 
@@ -305,12 +307,22 @@
             this.MSTest.TabIndex = 22;
             this.MSTest.Text = "0";
             // 
+            // TrueOrFalse
+            // 
+            this.TrueOrFalse.AutoSize = true;
+            this.TrueOrFalse.Location = new System.Drawing.Point(57, 354);
+            this.TrueOrFalse.Name = "TrueOrFalse";
+            this.TrueOrFalse.Size = new System.Drawing.Size(27, 13);
+            this.TrueOrFalse.TabIndex = 23;
+            this.TrueOrFalse.Text = "N/A";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1284, 677);
+            this.Controls.Add(this.TrueOrFalse);
             this.Controls.Add(this.MSTest);
             this.Controls.Add(this.ComputerOdometerLabel);
             this.Controls.Add(this.CopyrightLabel);
@@ -367,6 +379,7 @@
         private System.Windows.Forms.Label CopyrightLabel;
         private System.Windows.Forms.Label ComputerOdometerLabel;
         private System.Windows.Forms.Label MSTest;
+        private System.Windows.Forms.Label TrueOrFalse;
     }
 }
 

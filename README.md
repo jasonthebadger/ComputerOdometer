@@ -38,6 +38,13 @@ Fixed TripMeter doing strange things on Odometer Load. (only affected Compiled b
 
 Odo/Trip not visible on certain machines - I believe I've fixed this issue. Will test tomorrow. I'm going to leave it as an 'Issue' until I've confirmed
 it on a machine which has had the issue. UPDATE: Issue is fixed.
+------------------------------------------------------------------------------------------------------------------------------------------------
+Update 2.2
 
+Fixed Hundred Metre Trip bug.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Update 2.3 (Upcoming) + Probably FINAL
 
-
+Remove Testing Labels
+Add MPH support
+--------------------------------------------------------------------------------------------------------------------------------------------------
